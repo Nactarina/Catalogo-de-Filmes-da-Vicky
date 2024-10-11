@@ -1,5 +1,9 @@
 body {
-
-    background: black;
+   background: black;
     color: whitesmoke;
+}
+
+header{
+    text-align: center;
+    font-size: 30px;
 }
