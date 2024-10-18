@@ -1,13 +1,23 @@
 body {
-   background: black;
+    background: black;
     color: whitesmoke;
+    margin: 0;
 }
 
-header{
+header {
     text-align: center;
     font-size: 50px;
     border-bottom: solid 5px whitesmoke;
     margin: 20px;
     margin-left: 100;
     margin-right: 100;
+}
+
+section {
+    display: flex;
+    background-color: antiquewhite;
+    padding-bottom: 80px;
+    padding-top: 70px;
+    margin-top: 20px;
+    
 }
